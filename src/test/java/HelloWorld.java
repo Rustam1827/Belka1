@@ -5,6 +5,7 @@ public class HelloWorld {
         System.out.println("I luv panda!");
         System.out.println("I luv Belkas");
         System.out.println("I luv Nyahska");
+        System.out.println("I feel your lovka");
 
     }
 }
