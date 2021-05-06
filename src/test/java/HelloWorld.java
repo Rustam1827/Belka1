@@ -6,6 +6,6 @@ public class HelloWorld {
         System.out.println("I luv Belkas");
         System.out.println("I luv Nyahska");
         System.out.println("I feel your lovka");
-        System.out.println("Too much luv");
+        System.out.println("Too much luv I believe");
     }
 }
